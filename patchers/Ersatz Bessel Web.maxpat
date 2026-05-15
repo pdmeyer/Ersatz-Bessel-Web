@@ -1135,14 +1135,8 @@
                                             "lines": [
                                                 {
                                                     "patchline": {
-                                                        "source": [ "obj-1", 0 ],
-                                                        "destination": [ "obj-11", 0 ]
-                                                    }
-                                                },
-                                                {
-                                                    "patchline": {
-                                                        "source": [ "obj-6", 1 ],
-                                                        "destination": [ "obj-15", 0 ]
+                                                        "source": [ "obj-11", 0 ],
+                                                        "destination": [ "obj-6", 0 ]
                                                     }
                                                 },
                                                 {
@@ -1153,8 +1147,14 @@
                                                 },
                                                 {
                                                     "patchline": {
-                                                        "source": [ "obj-11", 0 ],
-                                                        "destination": [ "obj-6", 0 ]
+                                                        "source": [ "obj-6", 1 ],
+                                                        "destination": [ "obj-15", 0 ]
+                                                    }
+                                                },
+                                                {
+                                                    "patchline": {
+                                                        "source": [ "obj-1", 0 ],
+                                                        "destination": [ "obj-11", 0 ]
                                                     }
                                                 }
                                             ]
@@ -1351,14 +1351,14 @@
                                             "lines": [
                                                 {
                                                     "patchline": {
-                                                        "source": [ "obj-3", 0 ],
-                                                        "destination": [ "obj-4", 0 ]
+                                                        "source": [ "obj-1", 0 ],
+                                                        "destination": [ "obj-3", 0 ]
                                                     }
                                                 },
                                                 {
                                                     "patchline": {
-                                                        "source": [ "obj-1", 0 ],
-                                                        "destination": [ "obj-3", 0 ]
+                                                        "source": [ "obj-3", 0 ],
+                                                        "destination": [ "obj-4", 0 ]
                                                     }
                                                 }
                                             ]
