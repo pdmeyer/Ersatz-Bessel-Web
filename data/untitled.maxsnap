@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "untitled",
+    "origin": "984a5e85-507e-11f1-9e85-06ae693f15ed",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "overtones": {
+            "value": 0.5
+        },
+        "decay": {
+            "value": 0.5
+        },
+        "hit_pos": {
+            "value": 0.20400000000000004
+        },
+        "soft_mallet": {
+            "value": 0.0
+        },
+        "__presetid": "984a5e85-507e-11f1-9e85-06ae693f15ed"
+    }
+}
